@@ -21,9 +21,13 @@ This interactive tool is built to visualize earthquake data and tectonic plate b
 - Layer controls to switch between map views (satellite, grayscale, outdoor) and toggle data layers (earthquakes, tectonic plates).
 - Interactive popups for detailed information about each earthquake, including location, magnitude, depth, and time.
 - A legend to understand the color coding for earthquake depth.
+  ![image](https://github.com/user-attachments/assets/311dbe1e-d70f-4363-95aa-6724964bb035)
+
 #### Leaflet-Part-2 (Additional layers)
 - Visualization of earthquake data using markers that vary in size and color based on magnitude and depth.
 - Display of tectonic plate boundaries for additional context.
+![image](https://github.com/user-attachments/assets/30fd4317-9858-4017-83ab-3c75ef74d73f)
+
 
 ## Tools and Libraries
 
