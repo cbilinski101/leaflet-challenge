@@ -11,13 +11,10 @@ let sat = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/Worl
     
 let gray = L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
   attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
-  subdomains: 'abcd',
-  maxZoom: 20
 });
 
 let od = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Physical_Map/MapServer/tile/{z}/{y}/{x}', {
   attribution: 'Tiles &copy; Esri &mdash; Source: US National Park Service',
-	maxZoom: 8
 });
     
 // Create the map object with options.
