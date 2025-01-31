@@ -1,8 +1,8 @@
 [![Leaflet Challenge](https://img.shields.io/badge/Leaflet%20Challenge-Live-brightgreen)](https://cbilinski101.github.io/leaflet-challenge/) 
 
 ![HTML5](https://img.shields.io/badge/HTML5-Structure-orange?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/CSS3-Styling-blue?style=for-the-badge&logo=css3&logoColor=white)
-![Leaflet.js](https://img.shields.io/badge/Leaflet.js-Interactive%20Maps-008000?style=flat-square&logo=leaflet&logoColor=white)
-![D3.js](https://img.shields.io/badge/D3.js-Data%20Binding-F9A03C?style=flat-square&logo=d3.js&logoColor=white)
+
+![Leaflet.js](https://img.shields.io/badge/Leaflet.js-Interactive%20Maps-008000?style=flat-square&logo=leaflet&logoColor=white) ![D3.js](https://img.shields.io/badge/D3.js-Data%20Binding-F9A03C?style=flat-square&logo=d3.js&logoColor=white)
 
 
 # Earthquake Visualization Tool
