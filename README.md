@@ -26,8 +26,7 @@ This interactive tool is built to visualize earthquake data and tectonic plate b
 #### Leaflet-Part-2 (Additional layers)
 - Visualization of earthquake data using markers that vary in size and color based on magnitude and depth.
 - Display of tectonic plate boundaries for additional context.
-![image](https://github.com/user-attachments/assets/30fd4317-9858-4017-83ab-3c75ef74d73f)
-
+![image](https://github.com/cbilinski101/leaflet-challenge/blob/main/Images/Screenshot%202.png?raw=true)
 
 ## Tools and Libraries
 
